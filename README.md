@@ -1,7 +1,7 @@
 
 ## Live Link for the API:
 
-[iNoteBook Server](https://news-app-2312.onrender.com](https://i-notebook-2312.onrender.com/)
+[iNoteBook Server](https://i-notebook-2312.onrender.com/)
 
 # Stack Overflow Express Server
 
