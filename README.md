@@ -5,7 +5,7 @@
 This server is an Express Application and is made to provide API support to the News App.
 
 # Feature and Functionalities:
-This application allows us to perform CURD operations and store, delete, update and fetch notes. This server is built to provide the backend support to My News App that's why I am not sharing endpoint and header details here. But you can fork this repo and access the code then use your own Database for the same.
+This application allows us to perform CURD operations and store, delete, update and fetch notes. This server is built to provide the backend support to My NoteBook App that's why I am not sharing endpoint and header details here. But you can fork this repo and access the code then use your Database for the same.
 
 ## Technologies and Tools used:
 - NodeJs
