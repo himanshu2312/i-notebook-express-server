@@ -15,6 +15,7 @@ This application allows us to perform CURD operations and store, delete, update 
 - Javascript
 - ES6 Module
 - Visual Studio Code
+- JSON web token and more
 
 ## How to use?
 Fork and clone the repo and follow the below steps:
